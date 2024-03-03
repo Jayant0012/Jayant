@@ -20,7 +20,7 @@
 <a href="https://twitter.com/jayants25346825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayants25346825" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayant-singh-a3110a22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayant-singh-a3110a22a" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100005434609478&mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005434609478&mibextid=2jq9oc" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/officialjayant__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/officialjayant__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/officialjayant__?igsh=dWd0ZGVhYzUzejlq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/officialjayant__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
